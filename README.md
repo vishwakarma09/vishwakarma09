@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishwakarma09
 - 👀 I’m interested in Node, machine learning
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Nest.js
+- 💞️ I’m looking to collaborate on Vue3 and Laravel
 - 📫 How to reach me by emailing me at kkumar.sandeep89@gmail.com
 
 <!---
